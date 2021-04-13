@@ -24,11 +24,6 @@ public class ClassicIoUnbuffered {
 			while ((b = fis.read()) != -1) {
 				if (b == '\n') cnt++;
 			}
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		try {
 			fis.close();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -45,7 +40,7 @@ public class ClassicIoUnbuffered {
 		int lines = lineCount("input.txt", true);
 		long stopTime = System.nanoTime();
 		System.out.println("Lines: " + String.valueOf(lines));
-		System.out.println("Time it took: " + (stopTime - startTime - dryRun) + "  ");
+		System.out.println("Time it took: " + (stopTime - startTime - dryRun) + "  " + dryRun);
 	}
 	
 }
