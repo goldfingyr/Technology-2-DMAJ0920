@@ -59,8 +59,7 @@ DECLARE @LockTimeout int = 1222;
 
 WHILE @Done = 0
 BEGIN
-	PRINT 'Transacion Start';
-	BEGIN TRANSACTION T1 WITH MARK N'Deposit b';
+	RAISERROR( 'Transaction start',0,1) WITH NOWAIT	BEGIN TRANSACTION T1 WITH MARK N'Deposit b';
 	BEGIN TRY
 		PRINT 'Get Balance b';
 		-- balance = b.getBalance();

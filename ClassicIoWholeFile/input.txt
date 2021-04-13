@@ -1,0 +1,57 @@
+The conviction of 109 killers, 81 rapists and a man found guilty of both crimes in UK courts was not passed on to the criminals’ home EU countries due to a massive computer failure and subsequent cover-up, the Guardian can reveal.
+
+The most serious cases are among a total of 112,490 criminal convictions not sent to the relevant EU capitals over an eight-year period due to a catastrophic computer error, which some fear has put lives at risk.
+
+The scandal largely involves dual nationals, who are only rarely deported even after lengthy prison sentences, leaving EU member states potentially blind as to whether those convicted of crimes in the UK have since entered their country.
+
+The revelation will be highly embarrassing at a time when UK police forces are often relying on goodwill for continued cooperation on the sharing of information after the loss of access to EU databases due to Brexit.
+
+The Guardian can reveal:
+
+    The failure to comply with EU law and notify member states was first discovered within Whitehall at least six years ago, and a provisional plan to update them had been drawn up at that time by the Criminal Records Office. It was not acted upon amid concerns about the “reputational impact” on Britain.
+
+    The lack of notification included 191 individuals who were convicted of either aggravated intentional killing, aggravated rape, intentional killing, rape of a minor, unintentional killing, aggravated cases of intentional killing and intentional killing. Of those, 109 were convicted killers, 81 were rapists, and “one subject was convicted of both types of offences”.
+
+    EU member states were only alerted to the problem last autumn after this newspaper published incriminating minutes of a meeting at the Criminal Records Office. “You may be aware through UK media coverage earlier this year of a number of notifications not sent to EU member states since [European criminal records information system] was implemented in April 2012,” read the letter to member states from the criminal records office. “This is clearly a significant number that will have an impact upon you.”
+
+    Of the total of 112,490 convictions in the UK courts that had not been passed on to the EU member states, documents show that by the 15 February notification had belatedly been made of 81,706 cases, including 19,565 to Poland, 17,996 to Ireland and 12,466 to Romania, according to an FOI response. The UK criminal records office said a further 7,100 notifications had been made in the last two weeks.
+
+    The failure relates mainly to dual EU nationals and individuals where a fingerprint is missing from the records. But a series of other errors in the system have led to a failure to notify. Poland was not told of convictions of 15 of its nationals as they had been erroneously submitted to the police national computer as being from the Pitcairn Islands.
+
+Officials noted in 2015 that the system was prone to errors, with several convicted criminals recorded as coming from a tiny atoll in the Pacific Ocean known as Wake Island when in reality they lived in Wakefield, West Yorkshire.
+
+The problem was caused by the police national computer, a database used by law enforcement organisations across the UK operated by the Home Office, which generates daily files of the latest updates on convictions.
+
+If a foreign offender is sentenced, then Acro Criminal Records Office, a UK body responsible for international police data sharing, is legally obliged under EU law to alert police in convicted criminals’ home country.
+
+Six years ago, officials realised there was a serious problem in the system and warned the Home Office, documents obtained under the Freedom of Information Act by the Guardian revealed on Tuesday.
+
+A note written on 10 February 2015 for Acro’s strategic meeting explained that many of these daily activity files (DAFs) were not being created as had been intended.
+
+When no fingerprints were recorded or when the offender had dual nationality, the file was not being generated and so “in the region of 30% of DAF” were being “suppressed”.
+
+In addition, the files were not created when an offender was recorded as coming from 49 small current countries and another 92 historic ones,
+
+such as Rhodesia.
+
+The report makes it plain that the issue had been raised at a senior level within the Home Office by the most senior figures in the UK Criminal Records Office, saying: “Significant funds and resources would be needed to process the missing records and engagement has already started with HO colleagues, by the head of Acro.”
+
+A second internal Acro report reveals that a detailed “change request” to correct the DAF software was sent to the Home Office in January 2017 but that it was delayed.
+
+Police continued to raise the issue with government but it was kept from European law enforcement agencies despite the legal obligation upon them. A note from an Acro meeting in May 2019 reported: “There is a nervousness from Home Office around sending the historical notifications out dating back to 2012 due to the reputational impact this could have.”
+
+It was only after the scandal of the missing alerts was uncovered by the Guardian a year ago that ministers informed parliament and committed to fix it. At the time the number of missed records was estimated at 75,000.
+
+Sophie in ‘t Veld, a Dutch MEP who sits on the European parliament’s civil liberties, justice and home affairs committee, said: “The day will come that one of these people commits a very serious crime and then everybody is going to be up in arms and say: how come we didn’t know about it?’
+
+In ‘t Veld said the scandal raised questions over whether or not the UK would abide by the security and data-sharing arrangements agreed in the Brexit deal.
+
+“I’m worried, and irritated. What’s the point in having an agreement if even before the ink is dry, they’re not living up to it,” she said. “Already the UK was not meeting its obligations when it was a member of the EU and now we have less means to enforce it.”
+
+Lord Kennedy of Southwark, a shadow Home Office minister, said: “I am appalled at what has been revealed here with catastrophic failures by the Home Office to notify other European countries of people convicted of the most serious of offences including killers and rapists.
+
+“The damage caused to the reputation of British policing by this failure and cover-up by the Home Office cannot be overstated.”
+
+A UK government spokesperson said: “The Home Office has been working with Acro at pace to ensure the necessary data is shared with affected member states.
+
+“The majority have now been issued and we are working through the remaining data files, which require careful manual intervention. The individuals relating to the data have all faced justice in the UK and will have received the appropriate sentence.”
