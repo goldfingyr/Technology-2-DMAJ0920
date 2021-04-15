@@ -46,18 +46,18 @@ public class NioLineCount {
 					public void completed(Integer result, ByteBuffer attachment) {
 						// System.out.println("Result = " + result + " Limit = " + attachment.limit());
 						if ( result != -1 ) {
-						attachment.flip();
-						byte[] data = new byte[attachment.limit()];
-						attachment.get( data );
-						//System.out.println(new String(data));
-						for (int i = 0; i < data.length; i++ ) {
-							if ( data[i] == '\n' )
-								theCount++;
-							//System.out.println("data: " + data[i]);
-						}
-						// System.out.println("position: " + readPosition + " Count: " + theCount);
-						readPosition += data.length;
-						attachment.clear();
+							attachment.flip();
+							byte[] data = new byte[attachment.limit()];
+							attachment.get( data );
+							//System.out.println(new String(data));
+							for (int i = 0; i < data.length; i++ ) {
+								if ( data[i] == '\n' )
+									theCount++;
+								//System.out.println("data: " + data[i]);
+							}
+							// System.out.println("position: " + readPosition + " Count: " + theCount);
+							readPosition += data.length;
+							attachment.clear();
 						} else {
 							doContinue = false;
 						}
